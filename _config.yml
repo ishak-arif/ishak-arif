@@ -22,7 +22,7 @@ title: Ishak Arif
 email: ishak.ariif@gmail.me
 description: >- # this means to ignore newlines until "baseurl:"
   This is where I capture my thoughts.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ishak_ariif
 github_username:  ishak-arif
